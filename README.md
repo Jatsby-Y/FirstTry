@@ -1,7 +1,7 @@
 # my-project
 
-> A Vue + Express + Axios + Mongodb project
-> Suitable for beginners as me to learn
+> A Vue + Express + Axios + Mongodb project<br>
+Suitable for beginners as me to learn
 
 ## Build Setup
 
