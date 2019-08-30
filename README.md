@@ -16,8 +16,9 @@ enter the root directory and Input order 'node app.js'
 npm run dev/yarn run dev
 
 # build for production with minification
-npm run build/yarn run build
+npm run build/yarn run build<br><br>
 
+tip:要增删查改，需要提前安装Mongodb数据库，并在项目运行时启动Mongodb服务
 ```
 
 
