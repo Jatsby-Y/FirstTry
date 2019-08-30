@@ -6,7 +6,7 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
+# install dependencies<br>
 npm install or yarn/yarn install
 
 # start server
